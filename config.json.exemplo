@@ -1,0 +1,5 @@
+{
+    "TOKEN_OFC": "token oficial",
+    "TOKEN_CANARY": "token canary",
+    "MONGO_URI": "you mongo uri",
+}

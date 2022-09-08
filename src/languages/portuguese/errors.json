@@ -1,0 +1,14 @@
+{
+    "noperm": {
+        "button": "Você não tem permissão para usar este botão!",
+        "noback": "Você não tem esse background!"
+    },
+    "userbot": "Desculpe, mas essa quimica entre humano e robôs não funciona",
+    "my": "Credo, não permitirei isso, as pessoas podem achar que você é louco.",
+    "marry": {
+        "casadoyou": "Você já está casado",
+        "casadomy": "Alguém chegou antes de você!",
+        "databaseNO": "Usuário não registrado na database!",
+        "nocasado": "*Atualmente você não está em um relacionamento sério, volte quando estiver em um!*"
+    }
+}

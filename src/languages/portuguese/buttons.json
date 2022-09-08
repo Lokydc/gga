@@ -1,0 +1,62 @@
+{
+    "ship": {
+        "edit": "Edit ship values",
+        "add": "Edit",
+        "remove": "Remove"
+    },
+    "daily": {
+        "reward": "Resgatar daily"
+    },
+    "pay": {
+        "accept": "Aceitar transação!",
+        "recuse": "Recusar",
+        "ok": "Transação aceita!",
+        "cancel": "Transação cancelada!",
+        "timeout": "Tempo esgotado!"
+    },
+    "role": {
+        "cancel": "Cancelar"
+    },
+    "avatar": {
+        "server": "Alterar para avatar do servidor",
+        "blowser": "Abrir avatar no navegador",
+        "global": "Alternar para avatar global"
+    },
+    "info": {
+        "nobanner": "Sem banner!",
+        "rolespp": "Cargos filosóficos"
+    },
+    "vote": {
+        "voted": "Já votou no top.gg"
+    },
+    "profile": {
+        "send": "Enviar reputação"
+    },
+    "roleplay": {
+        "return": "Retribuir"
+    },
+    "punishiment": {
+        "confirm": "Confirmar punição"
+    },
+    "pudim": "Eu gosto de pudim",
+    "background": {
+        "buy": "Comprar",
+        "equip": "Equipar",
+        "yese": "Já equipado",
+        "nopo": "Não possui",
+        "yespo": "Já possui",
+        "nomoney": "Caramelos insuficientes"
+    },
+    "marry": {
+        "aceitar": "Aceitar",
+        "recusar": "Recusar",
+        "casado": "pedido de casamento aceito!"
+    },
+    "divorce": {
+        "ok": "Divorciado",
+        "nook": "Divorcio cancelado!",
+        "no": "Não",
+        "yes": "Sim"
+    }
+    
+}

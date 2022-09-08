@@ -1,0 +1,61 @@
+{
+    "ship": {
+        "edit": "Edit ship values",
+        "add": "Edit",
+        "remove": "Remove"
+    },
+    "daily": {
+        "reward": "reedem daily"
+    },
+    "pay": {
+        "accept": "Accept transaction!",
+        "recuse": "Recuse",
+        "ok": "Transaction accepted!",
+        "cancel": "Transaction cancelled!",
+        "timeout": "Time's up!"
+    },
+    "role": {
+            "cancel": "Stop"
+    },
+    "avatar": {
+        "server": "Switch to server avatar",
+        "blowser": "Open avatar in browser",
+        "global": "Switch to global avatar"
+    },
+    "info": {
+        "nobanner": "No banner!",
+        "rolespp": "roles"
+    },
+    "vote": {
+        "voted": "Already voted on top.gg"
+    },
+    "profile": {
+        "send": "Send reputation"
+    },
+    "roleplay": {
+        "return": "Return"
+    },
+    "punishiment": {
+        "confirm": "Confirm punishment"
+    },
+    "pudim": "I like pudding",
+    "background": {
+        "buy": "Buy",
+        "equip": "Equip",
+        "yese": "Already equipped",
+        "nopo": "Does not have",
+        "yespo": "Already have",
+        "nomoney": "Not enough caramels"
+    },
+    "marry": {
+        "aceitar": "Accept",
+        "recusar": "Never",
+        "casado": "marriage proposal accepted"
+    },
+    "divorce": {
+        "ok": "Divorced",
+        "nook": "Divorce cancelled!",
+        "no": "No",
+        "yes": "Yes"
+    }
+}

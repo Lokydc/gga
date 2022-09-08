@@ -1,0 +1,14 @@
+{
+    "noperm": {
+        "button": "You are not allowed to use this button!",
+        "noback": "You don't have that background!"
+    },
+    "userbot": "Sorry, but this chemistry between human and robots doesn't work",
+    "my": "God, I won't allow that, people might think you're crazy.",
+    "marry": {
+        "casadoyou": "You are already married",
+        "casadomy": "Someone got there before you!",
+        "databaseNO": "User not registered in the database!",
+        "nocasado": "*You are currently not in a serious relationship, come back when you are in one!*"
+    }
+}

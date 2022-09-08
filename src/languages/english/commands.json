@@ -1,0 +1,115 @@
+{
+        "caramelos": {
+            "author": "<:caramelo:974519013642227732> | You have **{{caramelos}}** caramels!",
+            "user": "<:caramelo:974519013642227732> | {{user}} have **{{caramelos}}** caramels!"
+        },
+        "lang": {
+            "noperm": "you don't have  permission to use this command, `{{perms}}`",
+            "islang": "this server is already in english!",
+            "nopermBOT": "I need to have the following permissions: `{{perms}}`"
+        },
+        "daily": {
+            "timeout": "You already got your daily reward today, come back in {{time}}\n\nWant more caramels? use the command `/premium buy`\nWhat are the caramels for? , you can use it to buy backgrounds, pay users, buy layouts, and use game commands!",
+            "confirm": "<:jujuba_wow:981613679843885056> Please follow the daily reward rules!\n`1` - Do not use alt accounts to gain advantages\n`2` - Daily can only be picked up once a day, if you try to cheat it will be banned!\n`3` - When taking the daily, please don't be toxic with other members, they are poor.\n`4` - Be happy and polite, you are special !",
+            "reedem": "<:wumpus_corao:991799564858294364> You've earned **{{value}}** in the daily reward, come back in 24 hours!\n<:emoji_23:989282906834870282> Want more caramels? use the command `/premium buy`"
+        },
+        "top": {
+            "nousers": "There's no one in the money top, your chance to be on top!"
+        },
+        "pay": {
+            "errors": {
+                "user": "*Impossible to send caramels to yourself*",
+                "falsepix": "*Impossible to make a fake pix, go to work you poor guy!*"
+            },
+            "confirm": "<:pb_mungus:1000175350262804590> {{author}} you are about to send {{value}} caramels to {{user}}\n<:pb_attaboi:1000167758564167702> to accept the transaction {{user}} must click ** Accept transaction!**, it has <t:{{time}}:R>",
+            "ok": "<:pb_cool:1000170452649525350> {{author}} sent {{value}} caramels to {{user}}, hope you don't spend it all at once {{user}}!"
+        },
+        "coinflip": {
+            "nocaramels": "*User does not have enough caramels*",
+            "bug": "*Safadinho, trying to make a bug right?*",
+            "youreward": "{{author}}, *Você ganhou* **{{value}}** *financiado por* {{user}}",
+            "userreward": "{{user}}, *You have won* **{{value}}** *funded by* {{author}}",
+            "confirm": "{{user}}, {{author}} *wants to bet with you for real* **{{value}}**, *whoever wins gets* **{{reward}}** *({{taxa}} fee)*\n*to accept this transaction click the button* ✅"
+        },
+        "role": {
+            "cancelado": "*The action was cancelled, **{{users}}** updated the role {{role}}!*",
+            "wait": "Updating the {{role}} role for all {{type}}s , this can take about **{{tempo}}**.",
+            "ok": "the role {{role}} has been updated to **{{send}}** {{type}}s!",
+            "ad": "There is already an action like this happening on this server, wait for it to end!",
+            "everyone": "all members already have this role",
+            "position": "You cannot update roles greater than yours!",
+            "my": "I can't update positions bigger than mine!",
+            "manage": "This role is managed by some integration, I can't give it to just anyone!"
+        },
+        "avatar": {
+            "nobutton": "You cannot use this button"
+        },
+        "banner": {
+            "error": "This user is too poor to have a banner on his profile, he needs nitro!"
+        },
+        "info": {
+            "information": "Information from",
+            "description1": "\n**ID:** `{{id}}` \n**Account created:** {{create}}",
+            "rolesH": "**Highest Role:** <@&{{high}}> (`{{high}}`)\n**Roles** ${leng}"
+        },
+        "vote": {
+            "app": "*By voting for jujube on any of these sites you will be contributing to its growth more and more! , vote and help. <3*"
+        },
+        "premium": {
+            "description": "*Sorry, there aren't many ways to buy premium yet! Maybe next time.*"
+        },
+        "profile": {
+            "desc": "This is your profile, to change about me use </profile aboutme:1016928151349252137>!",
+            "desc2": "This is the profile of `{{user}}` , do you need anything else?",
+            "aboutmeok": "About me successfully changed"
+        },
+        "reputation": {
+            "timeout": "You've already given a reputation today, try again later!",
+            "sent": "sent a reputation to",
+            "err": "You need to be registered in my database, for that use my command!",
+            "simesmo": "You can't give yourself a reputation!"
+        },
+        "roleplay": {
+            "hug": "hugged",
+            "kiss": "kissed",
+            "slap": "it hit",
+            "dance": "dance with"
+        },
+        "ship": {
+            "mention": "Mention two different people!",
+            "desc": "<:pb_thunk_halloween:1000169788343070752> **Hmmm, do we have a new couple here?** <:pb_thunk_halloween:1000169788343070752>\n<:pb_mungus:1000175350262804590> `{{username1}}` + `{{username2}}` = ✨ `{{descri}}` ✨"
+        },
+        "punishiment": {
+            "reason": "No reason entered",
+            "self": "You can't punish yourself silly!",
+            "high": "You cannot punish members with a higher rank than yours!",
+            "highbot": "I cannot punish this member, my position is not as superior as his.",
+            "confirm": "<:bmo_howdy:1000167902126805042> | You are about to ban {{user}} from your server for the reason **{{motive}}**!",
+            "ok": "User successfully punished, who orders to break the rules!"
+        },
+        "server": {
+            "owner": "Owner",
+            "members": "Members",
+            "channels": "Channels",
+            "voice": "Voice",
+            "text": "Text",
+            "entermy": "My entry",
+            "created": "Created in"
+        },
+        "background": {
+            "equip": "successfully equipped, use `/profile view` to see it!",
+            "success": "successfully purchased"
+        },
+        "marry": {
+            "databaseNO": "*Before marrying {{user}}, ask her/him to use one of my commands and register in my database!*",
+            "nomoney": "You two need to have at least 7,000 caramels on balance, want more caramels? use `/premium buy` or [visit our support server]",
+            "confirm": "{{user}}, {{author}} has asked you to marry him!\nClick the button to accept and be happy! , you have {{time}}"
+        },
+        "jujuba": {
+            "desc": "I'm currently on **{{guilds}} servers**, looking after **{{users}} users**. I was raised in **<t:{{created}}>** and my [kingdom](https://discord.gg/mXJ2nDm9) is amazing!\n\nI was programmed in [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) using [discord.js](https://discord.js.org/#/) and is fully hosted on [Importing Cloud](https://discord.gg/UnEpgwpSNA).",
+            "title": "Hi, I'm Bonnibel!"
+        },
+        "divorce": {
+            "confirm": "*Do you really want to end this beautiful relationship?*"
+        }
+}
